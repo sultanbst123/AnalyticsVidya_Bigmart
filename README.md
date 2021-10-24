@@ -1,2 +1,9 @@
 # AnalyticsVidya_Bigmart
-AnalyticsVidya Hackathon
+
+Tujuan Hackathon ini adalah untuk membangun model prediktif dan memprediksi penjualan setiap produk di outlet tertentu.
+
+
+Data Analysis with Python:
+
+Menganalisa hubungan antara feature dan target dan feature engineering. 
+
